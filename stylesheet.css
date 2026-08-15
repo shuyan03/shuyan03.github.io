@@ -635,3 +635,32 @@ a:active {
 .strong-venue i {
   color: #77BBDD !important; /* 蓝色星星 */
 }
+
+
+/* ===== Override all text fonts ===== */
+body,
+body p,
+body a,
+body li,
+body span,
+body div,
+body table,
+body tr,
+body td,
+body th,
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body strong,
+body b,
+body em,
+body i,
+body label,
+body button,
+body input,
+body textarea {
+    font-family: "Times New Roman", Times, serif !important;
+}
